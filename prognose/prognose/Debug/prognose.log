@@ -1,0 +1,3 @@
+﻿  prognose.cpp
+C:\Users\Zauri\source\repos\prognose\prognose\prognose.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  prognose.vcxproj -> C:\Users\Zauri\source\repos\prognose\Debug\prognose.exe
