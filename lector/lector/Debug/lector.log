@@ -1,0 +1,4 @@
+﻿  lector.cpp
+C:\Users\Zauri\source\repos\lector\lector\lector.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\lector\lector\lector.cpp(7,27): warning C4018: '<': signed/unsigned mismatch
+  lector.vcxproj -> C:\Users\Zauri\source\repos\lector\Debug\lector.exe
