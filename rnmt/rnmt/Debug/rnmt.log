@@ -1,0 +1,7 @@
+﻿  Reanimation.cpp
+  rnmt.cpp
+C:\Users\Zauri\source\repos\rnmt\rnmt\rnmt.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\rnmt\rnmt\rnmt.cpp(7,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\rnmt\rnmt\rnmt.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  rnmt.vcxproj -> C:\Users\Zauri\source\repos\rnmt\Debug\rnmt.exe
